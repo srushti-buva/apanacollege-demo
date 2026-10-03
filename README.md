@@ -1,4 +1,4 @@
 # apanacollege-demo
 This is my first Git Repository
 <br>
-Author- Srushti Buva
+Author- Srushti (Apana College)
